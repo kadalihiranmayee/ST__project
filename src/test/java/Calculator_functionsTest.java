@@ -19,4 +19,9 @@ public class Calculator_functionsTest {
         assertEquals(3, obj.sub (6,3));
     }
 
+    @Test
+    public void test_mult(){
+        assertEquals(18, obj.mult (6,3));
+    }
+
     }

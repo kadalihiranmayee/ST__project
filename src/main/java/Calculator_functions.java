@@ -6,4 +6,9 @@ public class Calculator_functions {
         return(c-d);
 //        return 0;
     }
+
+    public int mult(int a, int b){
+//        return (a*b);
+        return 0;
+    }
    }
