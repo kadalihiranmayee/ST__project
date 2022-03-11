@@ -3,5 +3,5 @@ public class Calculator_functions {
         return(a+b);
     }
     //Murtaza's Function
-    public int sub(int a, int b){return(a-b); }
+    public int sub(int c, int d){return(c-d); }
 }
