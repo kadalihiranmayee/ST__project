@@ -14,4 +14,9 @@ public class Calculator_functionsTest {
         assertEquals(0,obj.add(2,2));
 
     }
+    @Test
+    public void test_sub() {
+        assertEquals(0,obj.sub(2,2));
+
+    }
 }
