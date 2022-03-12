@@ -24,4 +24,7 @@ public class Calculator_functionsTest {
         assertEquals(18, obj.mult (6,3));
     }
 
+    @Test
+    public void test_div(){assertEquals(6,obj.div(18,3));}
+
     }
