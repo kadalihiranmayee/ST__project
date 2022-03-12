@@ -10,8 +10,7 @@ public class Calculator_functionsTest {
     public static void setup(){obj = new Calculator_functions();}
 
     @Test
-    public void test_add() {
-        assertEquals(0,obj.add(2,2));
-
+    public void test_add(){
+        assertEquals(4,obj.add(2,2));
     }
 }
