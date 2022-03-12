@@ -11,6 +11,6 @@ public class Calculator_functionsTest {
 
     @Test
     public void test_add(){
-        assertEquals(4,obj.add(2,2));
+        assertEquals(6,obj.add(3,3));
     }
 }
