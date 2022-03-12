@@ -1,6 +1,14 @@
-public class Calculator_functions {
+public class Calculator_functions{
     public int add(int a,int b){
-        // return (a+b);
-       return 0;
+        return (a+b);
+    }
+    public int sub(int a,int b){
+        return (a-b);
+    }
+    public int mul(int a,int b){
+        return (a*b);
+    }
+    public int div(int a,int b){
+        return (a/b);
     }
 }
