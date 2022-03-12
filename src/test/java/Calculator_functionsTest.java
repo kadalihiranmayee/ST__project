@@ -25,6 +25,6 @@ public class Calculator_functionsTest {
     }
 
     @Test
-    public void test_div(){assertEquals(6,obj.div(18,3));}
+    public void test_div(){assertEquals(7,obj.div(21,3));}
 
     }

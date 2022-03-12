@@ -14,7 +14,7 @@ public class Calculator_functions {
     }
 
     public int div(int a,int b){
-     //   return (a/b);
+     //  return (a/b);
         return 0;
 
     }
